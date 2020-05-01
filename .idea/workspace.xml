@@ -4,7 +4,7 @@
     <list default="true" id="85da84a0-d7b0-4fe4-b993-36e9f825efc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/User.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bascom/database/seeds/DatabaseSeeder.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bascom/database/seeds/AboutSeeder.php" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -155,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588306368282</updated>
-      <workItem from="1588306369803" duration="4578000" />
+      <workItem from="1588306369803" duration="5057000" />
     </task>
     <servers />
   </component>
