@@ -21,3 +21,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/send/email', 'HomeController@mail');
+Route::get('/calculate-sum', 'HomeController@calculateSum');
+Route::get('/calculate-sum-queue', 'HomeController@calculateSumQueue');
+
